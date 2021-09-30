@@ -1,1 +1,1 @@
-[github] (https://github.com/rupakmandal522)
+[github](https://github.com/rupakmandal522)
